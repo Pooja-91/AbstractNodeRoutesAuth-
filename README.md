@@ -2,9 +2,15 @@
 
 Use Node.js
 
-Express
+Express Routers
+Paths
+Body parser
+CORS
+Node mailer
+CRUD api
+Mysql connection
+jwt-simple for authentication.
 
-jwt-simple for auth
 
 
 
