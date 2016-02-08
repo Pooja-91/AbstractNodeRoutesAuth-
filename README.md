@@ -1,4 +1,4 @@
-# This application  related to Node.js with CRUD operations and separate routes and Authenticated URl.
+# This application  related to Node.js with CRUD operations and separate routes and Authenticated URL.
 
 Use Node.js
 
